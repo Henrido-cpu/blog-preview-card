@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/Henrido-cpu/frontend-exercises-frontend-mentor/tree/main/blog-preview-card-main)
-- Live Site URL: (https://your-live-site-url.com)
+- Solution URL: (https://github.com/Henrido-cpu/blog-preview-card)
+- Live Site URL: (https://henrido-cpu.github.io/blog-preview-card/)
 
 
 ## My process
@@ -72,5 +72,5 @@ I also learned that i have to learn more about custom properties in css to use t
 
 - Website - [Henrido](https://www.your-site.com)
 - Frontend Mentor - [@Henrido-cpu](https://www.frontendmentor.io/profile/Henrido-cpu)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Twitter - [@HenridoWeb](https://x.com/HenridoWeb)
 
