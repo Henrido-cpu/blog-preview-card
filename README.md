@@ -70,7 +70,6 @@ I also learned that i have to learn more about custom properties in css to use t
 
 ## Author
 
-- Website - [Henrido](https://www.your-site.com)
 - Frontend Mentor - [@Henrido-cpu](https://www.frontendmentor.io/profile/Henrido-cpu)
 - Twitter - [@HenridoWeb](https://x.com/HenridoWeb)
 
